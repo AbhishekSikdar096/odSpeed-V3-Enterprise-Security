@@ -3,7 +3,7 @@
 
 > *"Passive defense is dead. GodSpeed is an Active Hunter."*
 
-![Dashboard Preview](Screenshot 2026-02-06 at 2.30.03 AM.jpg)
+![Dashboard Preview](GodSpeed_V3 img.jpeg)
 
 ## 🛡️ SYSTEM OVERVIEW
 GodSpeed V3 is an offensive security protocol designed to protect servers and networks through **"Active Deception."** Unlike passive antiviruses, GodSpeed deploys a neural trap on Port 8888. When an attacker scans this port, GodSpeed detects them instantly.
